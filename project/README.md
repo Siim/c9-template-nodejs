@@ -11,7 +11,7 @@ Hi there! Welcome to Cloud9 IDE!
 
 To get you started, we have created a small hello world application.
 
-1) Open the hello-world file
+1) Open the hello-world.js file
 
 2) Follow the run instructions in the file's comments
     
