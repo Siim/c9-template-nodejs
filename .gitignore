@@ -1,0 +1,5 @@
+.hgignore
+node_modules
+.c9revisions
+.DS_Store
+Thumbs.db
