@@ -1,3 +1,4 @@
+
     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
@@ -6,22 +7,20 @@
     ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to Cloud9 IDE!
+Welcome to Cloud9 IDE!
 
-To get you started, we have created a small hello world application.
+To get you started, we have created a demo chat application.
 
-1) Open the hello-world.js file
+1) Open the server.js file
 
-2) Follow the run instructions in the file's comments
-    
-And that's all there is to it! Just have fun. Go ahead and edit the code, 
-or add new files. It's all up to you! 
+2) Click the 'Run' button at the top to start your server,
+
+3) Click the URL that is emitted to the Output tab of the console
 
 Happy coding!
 The Cloud9 IDE team
 
-
 ## Support & Documentation
 
 Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+To watch some training videos, visit http://www.youtube.com/user/c9ide.
